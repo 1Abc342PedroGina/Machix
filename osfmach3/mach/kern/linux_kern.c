@@ -1,4 +1,4 @@
-// SPDX License Indentifier:GPL-2.0-only */
+// SPDX License Indentifier:GPL-2.0-only 
 
 /*
  * MACHIX Operating System - Linux Compatibility Layer
